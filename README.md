@@ -63,8 +63,8 @@ Pipeline analítico reproduzível para mais de 52 mil publicações, com inferê
 ## Atividade no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeFreire23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFreire23&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeFreire23&theme=github_dark" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeFreire23&theme=github_dark" alt="Linguagens mais usadas nos repositórios">
 </div>
 
 ## Contribuições
