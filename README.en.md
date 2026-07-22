@@ -69,6 +69,19 @@ A reproducible analytics pipeline for **over 52,000 social media posts**, featur
 
 [View source](https://github.com/FelipeFreire23/ai-master-challenge/tree/agent/challenge-004-social-media/submissions/felipe-freire) · [Open live demo](https://felipe-social-media-intelligence.streamlit.app/)
 
+<div align="center">
+  <a href="https://felipe-social-media-intelligence.streamlit.app/">
+    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-01-visao-geral.png" alt="G4 Social Intelligence dashboard overview">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-02-audiencia.png" alt="G4 Social Intelligence audience analysis">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-03-exploracao.png" alt="G4 Social Intelligence data exploration">
+</div>
+
 ### [AI PDF Chat](https://github.com/FelipeFreire23/ai-pdf-chat)
 
 A conversational assistant for PDF documents built with **Grok, local embeddings, and FAISS**. It processes documents, performs semantic search, and generates grounded answers with file and page references.

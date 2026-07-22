@@ -69,6 +69,19 @@ Pipeline analítico reproducible para **más de 52 mil publicaciones**, con infe
 
 [Ver código](https://github.com/FelipeFreire23/ai-master-challenge/tree/agent/challenge-004-social-media/submissions/felipe-freire) · [Abrir demo](https://felipe-social-media-intelligence.streamlit.app/)
 
+<div align="center">
+  <a href="https://felipe-social-media-intelligence.streamlit.app/">
+    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-01-visao-geral.png" alt="Vista general del dashboard G4 Social Intelligence">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-02-audiencia.png" alt="Análisis de audiencia de G4 Social Intelligence">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-03-exploracao.png" alt="Exploración de datos de G4 Social Intelligence">
+</div>
+
 ### [AI PDF Chat](https://github.com/FelipeFreire23/ai-pdf-chat)
 
 Asistente conversacional para documentos PDF desarrollado con **Grok, embeddings locales y FAISS**. Procesa documentos, realiza búsquedas semánticas y genera respuestas fundamentadas con referencias al archivo y a la página.
