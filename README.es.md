@@ -1,34 +1,34 @@
 <div align="center">
 
-<strong>Português</strong> · <a href="README.en.md">English</a> · <a href="README.es.md">Español</a>
+<a href="README.md">Português</a> · <a href="README.en.md">English</a> · <strong>Español</strong>
 
 # Felipe de Oliveira Freire
 
 ### AI Engineer · Python · LLMs · RAG · Machine Learning
 
-Construo aplicações inteligentes, agentes de IA e sistemas de dados que transformam problemas reais em produtos escaláveis.
+Desarrollo aplicaciones inteligentes, agentes de IA y sistemas de datos que transforman problemas reales en productos escalables.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Freire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-freire-659615284/)
 [![Email](https://img.shields.io/badge/Email-freirefelipe218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freirefelipe218@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeFreire23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeFreire23)
 
-📍 Brasília, DF
+📍 Brasilia, Brasil
 
 </div>
 
-## Sobre mim
+## Sobre mí
 
-Sou **AI Engineer** especializado no desenvolvimento de aplicações com **Python, LLMs, agentes de IA e arquiteturas RAG**. Trabalho com integração de modelos, APIs, recuperação semântica, pipelines de dados e soluções de Machine Learning.
+Soy **AI Engineer**, especializado en el desarrollo de aplicaciones con **Python, LLMs, agentes de IA y arquitecturas RAG**. Trabajo con integración de modelos, APIs, recuperación semántica, pipelines de datos y soluciones de Machine Learning.
 
-- Aplicações com GPT, Claude, Gemini, Llama, Mistral e Grok
-- Orquestração com LangChain, LangGraph, RAG e MCP
-- APIs e backends com FastAPI, Django e Flask
-- Machine Learning, análise de dados e visão computacional
-- Docker, CI/CD, bancos SQL e ambientes Linux
+- Aplicaciones con GPT, Claude, Gemini, Llama, Mistral y Grok
+- Orquestación con LangChain, LangGraph, RAG y MCP
+- APIs y sistemas backend con FastAPI, Django y Flask
+- Machine Learning, análisis de datos y visión artificial
+- Docker, CI/CD, bases de datos SQL y entornos Linux
 
 ## Stack principal
 
-### IA e dados
+### IA y datos
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -41,7 +41,7 @@ Sou **AI Engineer** especializado no desenvolvimento de aplicações com **Pytho
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
-### Backend e infraestrutura
+### Backend e infraestructura
 
 <p>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -53,7 +53,7 @@ Sou **AI Engineer** especializado no desenvolvimento de aplicações com **Pytho
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-### AI-assisted development
+### Desarrollo asistido por IA
 
 <p>
   <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
@@ -61,63 +61,63 @@ Sou **AI Engineer** especializado no desenvolvimento de aplicações com **Pytho
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
 </p>
 
-## Projetos em destaque
+## Proyectos destacados
 
 ### [G4 Social Intelligence](https://felipe-social-media-intelligence.streamlit.app/)
 
-Pipeline analítico reproduzível para **mais de 52 mil publicações**, com inferência estatística, dashboard trilíngue, laboratório de experimentos, arquitetura multiagentes e testes automatizados.
+Pipeline analítico reproducible para **más de 52 mil publicaciones**, con inferencia estadística, dashboard trilingüe, laboratorio de experimentos, arquitectura multiagente y pruebas automatizadas.
 
-[Ver código](https://github.com/FelipeFreire23/ai-master-challenge/tree/agent/challenge-004-social-media/submissions/felipe-freire) · [Abrir demonstração](https://felipe-social-media-intelligence.streamlit.app/)
+[Ver código](https://github.com/FelipeFreire23/ai-master-challenge/tree/agent/challenge-004-social-media/submissions/felipe-freire) · [Abrir demo](https://felipe-social-media-intelligence.streamlit.app/)
 
 <div align="center">
   <a href="https://felipe-social-media-intelligence.streamlit.app/">
-    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-01-visao-geral.png" alt="G4 Social Intelligence — visão geral do dashboard">
+    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-01-visao-geral.png" alt="Vista general del dashboard G4 Social Intelligence">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-02-audiencia.png" alt="G4 Social Intelligence — análise de audiência">
-  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-03-exploracao.png" alt="G4 Social Intelligence — exploração dos dados">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-02-audiencia.png" alt="Análisis de audiencia de G4 Social Intelligence">
+  <img width="46%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-master-challenge/06d40c69aee84da77c8e248186b371a36d972b2a/submissions/felipe-freire/outputs/figures/dashboard/dashboard-03-exploracao.png" alt="Exploración de datos de G4 Social Intelligence">
 </div>
 
 ### [AI PDF Chat](https://github.com/FelipeFreire23/ai-pdf-chat)
 
-Assistente conversacional para documentos PDF com **Grok, embeddings locais e FAISS**. Processa documentos, executa busca semântica e gera respostas fundamentadas com indicação de arquivo e página.
+Asistente conversacional para documentos PDF desarrollado con **Grok, embeddings locales y FAISS**. Procesa documentos, realiza búsquedas semánticas y genera respuestas fundamentadas con referencias al archivo y a la página.
 
 [Ver código](https://github.com/FelipeFreire23/ai-pdf-chat)
 
 <div align="center">
   <a href="https://github.com/FelipeFreire23/ai-pdf-chat">
-    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-pdf-chat/main/docs/images/ai-pdf-chat-home.png" alt="Interface do AI PDF Chat">
+    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-pdf-chat/main/docs/images/ai-pdf-chat-home.png" alt="Interfaz de AI PDF Chat">
   </a>
 </div>
 
-## Experiência
+## Experiencia
 
-- **Stefanini · Cliente Sicoob — Analista de Operações de TI:** monitoramento de ambientes críticos com Linux, Grafana, Zabbix e Jenkins.
-- **Engemav — Cientista de Dados:** aplicações de IA, Machine Learning, LLMs, pipelines de dados e dashboards analíticos.
-- **DFranchiseLab — Desenvolvedor Full Stack:** APIs, integração de IA generativa e soluções baseadas em SQL.
-- **Ctrl+Play — Instrutor de Programação e Robótica:** formação de mais de 100 alunos em programação, robótica e IA.
+- **Stefanini · Cliente Sicoob — Analista de Operaciones de TI:** monitoreo de entornos críticos con Linux, Grafana, Zabbix y Jenkins.
+- **Engemav — Científico de Datos:** aplicaciones de IA, Machine Learning, LLMs, pipelines de datos y dashboards analíticos.
+- **DFranchiseLab — Desarrollador Full Stack:** APIs, integración de IA generativa y soluciones basadas en SQL.
+- **Ctrl+Play — Instructor de Programación y Robótica:** formación de más de 100 estudiantes en programación, robótica e IA.
 
-## Atividade no GitHub
+## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeFreire23&theme=github_dark" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeFreire23&theme=github_dark" alt="Linguagens mais usadas nos repositórios">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeFreire23&theme=github_dark" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeFreire23&theme=github_dark" alt="Lenguajes más utilizados en los repositorios">
 </div>
 
-## Contribuições
+## Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeFreire23/FelipeFreire23/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeFreire23/FelipeFreire23/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições de Felipe Freire" src="https://raw.githubusercontent.com/FelipeFreire23/FelipeFreire23/output/github-contribution-grid-snake.svg">
+  <img alt="Animación de contribuciones de Felipe Freire" src="https://raw.githubusercontent.com/FelipeFreire23/FelipeFreire23/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
 
-### IA aplicada, software bem construído e decisões orientadas por dados.
+### IA aplicada, software bien construido y decisiones orientadas por datos.
 
 </div>

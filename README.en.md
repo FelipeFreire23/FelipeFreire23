@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="README.md">Português</a> · <strong>English</strong>
+<a href="README.md">Português</a> · <strong>English</strong> · <a href="README.es.md">Español</a>
 
 # Felipe de Oliveira Freire
 
