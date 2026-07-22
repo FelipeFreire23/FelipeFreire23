@@ -2,63 +2,83 @@
 
 # Felipe de Oliveira Freire
 
-### Cientista de Dados · Analista de Dados · Desenvolvedor Full Stack
+### AI Engineer · Python · LLMs · RAG · Machine Learning
 
-Transformo dados em decisões e problemas de negócio em produtos digitais reproduzíveis.
+Construo aplicações inteligentes, agentes de IA e sistemas de dados que transformam problemas reais em produtos escaláveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Freire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-freire-659615284/)
+[![Email](https://img.shields.io/badge/Email-freirefelipe218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freirefelipe218@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeFreire23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeFreire23)
+
+📍 Brasília, DF
 
 </div>
 
 ## Sobre mim
 
-- Desenvolvimento soluções de dados do diagnóstico à entrega executiva.
-- Construo aplicações web, APIs, automações e dashboards interativos.
-- Trabalho com análise estatística, Machine Learning e engenharia de software.
-- Priorizo código testável, documentação, rastreabilidade e decisões baseadas em evidências.
+Sou **AI Engineer** especializado no desenvolvimento de aplicações com **Python, LLMs, agentes de IA e arquiteturas RAG**. Trabalho com integração de modelos, APIs, recuperação semântica, pipelines de dados e soluções de Machine Learning.
 
-## Dados e Inteligência Artificial
+- Aplicações com GPT, Claude, Gemini, Llama, Mistral e Grok
+- Orquestração com LangChain, LangGraph, RAG e MCP
+- APIs e backends com FastAPI, Django e Flask
+- Machine Learning, análise de dados e visão computacional
+- Docker, CI/CD, bancos SQL e ambientes Linux
+
+## Stack principal
+
+### IA e dados
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
+### Backend e infraestrutura
+
+<p>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-## Desenvolvimento Full Stack
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
-
-## Engenharia e Qualidade
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## Projeto em destaque
+### AI-assisted development
+
+<p>
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+</p>
+
+## Projetos em destaque
 
 ### [G4 Social Intelligence](https://felipe-social-media-intelligence.streamlit.app/)
 
-Pipeline analítico reproduzível para mais de 52 mil publicações, com inferência estatística, dashboard trilíngue, laboratório de experimentos, testes automatizados e arquitetura multiagentes.
+Pipeline analítico reproduzível para **mais de 52 mil publicações**, com inferência estatística, dashboard trilíngue, laboratório de experimentos, arquitetura multiagentes e testes automatizados.
+
+[Ver código](https://github.com/FelipeFreire23/ai-master-challenge/tree/agent/challenge-004-social-media/submissions/felipe-freire) · [Abrir demonstração](https://felipe-social-media-intelligence.streamlit.app/)
+
+### [AI PDF Chat](https://github.com/FelipeFreire23/ai-pdf-chat)
+
+Assistente conversacional para documentos PDF com **Grok, embeddings locais e FAISS**. Processa documentos, executa busca semântica e gera respostas fundamentadas com indicação de arquivo e página.
+
+[Ver código](https://github.com/FelipeFreire23/ai-pdf-chat)
+
+## Experiência
+
+- **Stefanini · Cliente Sicoob — Analista de Operações de TI:** monitoramento de ambientes críticos com Linux, Grafana, Zabbix e Jenkins.
+- **Engemav — Cientista de Dados:** aplicações de IA, Machine Learning, LLMs, pipelines de dados e dashboards analíticos.
+- **DFranchiseLab — Desenvolvedor Full Stack:** APIs, integração de IA generativa e soluções baseadas em SQL.
+- **Ctrl+Play — Instrutor de Programação e Robótica:** formação de mais de 100 alunos em programação, robótica e IA.
 
 ## Atividade no GitHub
 
@@ -77,6 +97,6 @@ Pipeline analítico reproduzível para mais de 52 mil publicações, com inferê
 
 <div align="center">
 
-### Dados confiáveis. Software bem construído. Decisões que geram ação.
+### IA aplicada, software bem construído e decisões orientadas por dados.
 
 </div>
