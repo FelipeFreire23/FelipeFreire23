@@ -86,6 +86,12 @@ Assistente conversacional para documentos PDF com **Grok, embeddings locais e FA
 
 [Ver código](https://github.com/FelipeFreire23/ai-pdf-chat)
 
+<div align="center">
+  <a href="https://github.com/FelipeFreire23/ai-pdf-chat">
+    <img width="92%" src="https://raw.githubusercontent.com/FelipeFreire23/ai-pdf-chat/main/docs/images/ai-pdf-chat-home.png" alt="Interface do AI PDF Chat">
+  </a>
+</div>
+
 ## Experiência
 
 - **Stefanini · Cliente Sicoob — Analista de Operações de TI:** monitoramento de ambientes críticos com Linux, Grafana, Zabbix e Jenkins.
